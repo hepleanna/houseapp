@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">improvedHouse</string>
+    <string name="tab_text_1">CHATS</string>
+    <string name="tab_text_2">HOUSES</string>
+    <string name="tab_text_3">PROFILE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab1_chats_fragment">Tab1ChatsFragment</string>
+    <string name="title_activity_tab2_houses_fragment">Tab2HousesFragment</string>
+    <string name="title_activity_tab3_profile_fragment">Tab3ProfileFragment</string>
+    <string name="title_activity_registration">registration</string>
+</resources>

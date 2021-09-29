@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376683511972",
+    "firebase_url": "https://improvedhouse.firebaseio.com",
+    "project_id": "improvedhouse",
+    "storage_bucket": "improvedhouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376683511972:android:3bba394c2110a357",
+        "android_client_info": {
+          "package_name": "com.example.improvedhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376683511972-4j5g7ud5jd3frd3mjcbke2te4ltehsn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.improvedhouse",
+            "certificate_hash": "d67594df27585ada954f641e0d7a3b04c01a8442"
+          }
+        },
+        {
+          "client_id": "376683511972-okjb1lb5r8nshlebfv29t02n1hco4djf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn9SMtk1Z7uDlO4VhbDQI7YUkJt53xk9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376683511972-okjb1lb5r8nshlebfv29t02n1hco4djf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
